@@ -1,7 +1,7 @@
 # gooseproxy
 a webproxy designed by Jamen Noodles#3743
  
-How to create your own-
+How to create your own the hard way-
  
 first step: go to glitch.com or other hosting service, ill be using glitch, create new project, create a "hello-express" app
  
