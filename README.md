@@ -11,3 +11,4 @@ third step: press "import from github" and type "JamenM/gooseproxy" without the 
 fourth step: let your project load and you are done see your app by pressing show in a new tab and then press ctrl + m to uncloak
 ---------------------------------------------------------------------------------------------------------------------------------
 enjoy :)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
