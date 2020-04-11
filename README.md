@@ -12,4 +12,4 @@ fourth step: let your project load and you are done see your app by pressing sho
 ---------------------------------------------------------------------------------------------------------------------------------
 enjoy :)
 --------
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://gooseproxy.herokuapp.com/)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/JamenM/gooseproxy)
