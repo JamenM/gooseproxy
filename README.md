@@ -1,6 +1,8 @@
 # gooseproxy
 a webproxy designed by Jamen Noodles#3743
  
+an example at http://i-ready.ml/ press ctrl + m to toggle cloak
+ 
 How to create your own the hard way-
  
 first step: go to glitch.com or other hosting service, ill be using glitch, create new project, create a "hello-express" app
